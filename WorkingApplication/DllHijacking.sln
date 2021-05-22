@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseApplication", "BaseApplication\BaseApplication.csproj", "{4036FBFF-4F52-4CE7-B197-25E7658152DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegitClassLibrary", "LegitClassLibrary\LegitClassLibrary.csproj", "{8E78AE34-46B1-4B4E-AFF7-E0B2F0C23EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4036FBFF-4F52-4CE7-B197-25E7658152DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4036FBFF-4F52-4CE7-B197-25E7658152DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4036FBFF-4F52-4CE7-B197-25E7658152DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4036FBFF-4F52-4CE7-B197-25E7658152DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E78AE34-46B1-4B4E-AFF7-E0B2F0C23EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E78AE34-46B1-4B4E-AFF7-E0B2F0C23EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E78AE34-46B1-4B4E-AFF7-E0B2F0C23EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E78AE34-46B1-4B4E-AFF7-E0B2F0C23EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FBD6F46-7C72-4193-B418-752067F48413}
+	EndGlobalSection
+EndGlobal

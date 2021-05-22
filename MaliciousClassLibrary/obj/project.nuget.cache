@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qSv5rF0RERD5/8DeHwXqjcCm+N0ZCBF1hvmvr/mes2JgCf9V2TyuWziX+UPe45w/6kR2QqdLysA5ZPcPXBoA2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aniket.Vaishnav\\source\\repos\\MyGithub\\DllHijacking\\MaliciousClassLibrary\\LegitClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aniket.Vaishnav\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aniket.Vaishnav\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

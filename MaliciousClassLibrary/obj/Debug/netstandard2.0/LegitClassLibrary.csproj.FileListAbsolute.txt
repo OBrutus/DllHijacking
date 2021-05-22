@@ -1,0 +1,9 @@
+C:\Users\Aniket.Vaishnav\source\repos\MyGithub\DllHijacking\MaliciousClassLibrary\bin\Debug\netstandard2.0\LegitClassLibrary.deps.json
+C:\Users\Aniket.Vaishnav\source\repos\MyGithub\DllHijacking\MaliciousClassLibrary\bin\Debug\netstandard2.0\LegitClassLibrary.dll
+C:\Users\Aniket.Vaishnav\source\repos\MyGithub\DllHijacking\MaliciousClassLibrary\bin\Debug\netstandard2.0\LegitClassLibrary.pdb
+C:\Users\Aniket.Vaishnav\source\repos\MyGithub\DllHijacking\MaliciousClassLibrary\obj\Debug\netstandard2.0\LegitClassLibrary.csprojAssemblyReference.cache
+C:\Users\Aniket.Vaishnav\source\repos\MyGithub\DllHijacking\MaliciousClassLibrary\obj\Debug\netstandard2.0\LegitClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Aniket.Vaishnav\source\repos\MyGithub\DllHijacking\MaliciousClassLibrary\obj\Debug\netstandard2.0\LegitClassLibrary.AssemblyInfo.cs
+C:\Users\Aniket.Vaishnav\source\repos\MyGithub\DllHijacking\MaliciousClassLibrary\obj\Debug\netstandard2.0\LegitClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aniket.Vaishnav\source\repos\MyGithub\DllHijacking\MaliciousClassLibrary\obj\Debug\netstandard2.0\LegitClassLibrary.dll
+C:\Users\Aniket.Vaishnav\source\repos\MyGithub\DllHijacking\MaliciousClassLibrary\obj\Debug\netstandard2.0\LegitClassLibrary.pdb
